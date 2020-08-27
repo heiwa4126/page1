@@ -43,3 +43,7 @@ Pagesサイトは、[リポジトリの設定](https://github.com/heiwa4126/page
 [contact support](https://github.com/contact)
 を参照してください。
 問題を整理する手助けをいたします。
+
+[次のページ](page1.html)
+
+
