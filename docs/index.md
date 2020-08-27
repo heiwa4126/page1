@@ -44,6 +44,11 @@ Pagesサイトは、[リポジトリの設定](https://github.com/heiwa4126/page
 を参照してください。
 問題を整理する手助けをいたします。
 
-[次のページ](page1.html)
 
+### 参考リンク
+
+- [Jekyll • シンプルで、ブログのような、静的サイト | プレーンテキストを静的サイトやブログに変えましょう](http://jekyllrb-ja.github.io/)
+- [jekyll/jekyll: Jekyll is a blog-aware static site generator in Ruby](https://github.com/jekyll/jekyll)
+
+[次のページ](page1.html)
 
