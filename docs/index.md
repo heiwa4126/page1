@@ -1,12 +1,15 @@
-## Welcome to GitHub Pages
+## ようこそGitHub Pagesへ!
 
-You can use the [editor on GitHub](https://github.com/heiwa4126/page1/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+(これはGitHub Pagesのデフォルトページを日本語に翻訳したものです)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[GitHub上のエディタ](https://github.com/heiwa4126/page1/edit/master/docs/index.md) を使って、あなたのサイトのコンテンツをMarkdownファイルでメンテナンスしたり、プレビューしたりすることができます。
+
+このリポジトリにコミットすると、GitHub Pagesは [Jekyll](https://jekyllrb.com/) を実行して、Markdownファイル内のコンテンツからサイト内のページを再構築します。
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdownは、あなたの文章をスタイリングするための軽量で使いやすい構文です。
+以下のような構文が含まれています。
 
 ```markdown
 Syntax highlighted code block
@@ -26,12 +29,17 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+詳しくは [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/) を参照してください。
 
-### Jekyll Themes
+### Jekyll テーマ
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/heiwa4126/page1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Pagesサイトは、[リポジトリの設定](https://github.com/heiwa4126/page1/settings) で選択したJekyll(ジキル)テーマのレイアウトとスタイルを使用します。このテーマの名前は、Jekyll `_config.yml` 設定ファイルに保存されます。
 
-### Support or Contact
+### サポートと連絡先
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+問題がある場合は、
+[documentation](https://docs.github.com/categories/github-pages-basics/) 
+か
+[contact support](https://github.com/contact)
+を参照してください。
+問題を整理する手助けをいたします。
